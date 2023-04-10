@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331908545860",
+    "project_id": "play-store-update-49bb0",
+    "storage_bucket": "play-store-update-49bb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331908545860:android:805f18af48bb50dda5eb11",
+        "android_client_info": {
+          "package_name": "com.playstoreupdateguide.latest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331908545860-1ta8bqe4f4u8t1p0j2qv384da841da99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkJjNwNhFVghAsdjvBPnstpyKgC9RE_0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331908545860-1ta8bqe4f4u8t1p0j2qv384da841da99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
